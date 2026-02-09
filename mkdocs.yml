@@ -1,0 +1,8 @@
+site_name: Morality Gym Tabular
+theme:
+  name: material
+docs_dir: docs
+nav:
+  - Home: index.md
+  - Environments: environments.md
+  - Experiments: experiments.md
