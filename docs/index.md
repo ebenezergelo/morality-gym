@@ -1,4 +1,4 @@
-# Morality Gym Tabular
+# MoralityGym
 
 A research framework for investigating AI agent behavior in moral dilemmas, providing tabular environments with the Gymnasium API for training and evaluating reinforcement learning agents on scenarios involving ethical decisions.
 
@@ -68,5 +68,4 @@ Contributions are welcome! Please see the [contributing guidelines](CONTRIBUTING
 
 ## License
 
-This project is licensed under the terms of the [LICENSE](LICENSE) file included in the repository. 
-
+This project is licensed under the terms of the [LICENSE](LICENSE) file included in the repository.
