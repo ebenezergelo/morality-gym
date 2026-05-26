@@ -1,4 +1,4 @@
-site_name: Morality Gym Tabular
+site_name: MoralityGym
 theme:
   name: material
 docs_dir: docs
